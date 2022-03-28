@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Timesheet">
+	<test name="TimesheetTest">
+		<classes>
+			<class
+				name="com.automationAspireportal.testscript.TC01_EmployeePage" />
+			<class
+				name="com.automationAspireportal.testscript.TC04_Manager_Action_Reject" />
+			<class
+				name="com.automationAspireportal.testscript.TC05_Manager_Reject" />
+			<class
+				name="com.automationAspireportal.testscript.TC02_Manager_Action_Approve" />
+			<class
+				name="com.automationAspireportal.testscript.TC12_Admin_Reject" />
+			<class
+				name="com.automationAspireportal.testscript.TC03_Manager_Approve" />
+			<class
+				name="com.automationAspireportal.testscript.TC12_Admin_Reject" />
+			<class
+				name="com.automationAspireportal.testscript.TC06_MangershiftsPage" />
+			<class
+				name="com.automationAspireportal.testscript.TC07_manager_ReportsPage" />
+			<class
+				name="com.automationAspireportal.testscript.TC08_Manager_ReportsPagePdf" />
+			<class
+				name="com.automationAspireportal.testscript.TC09_Manager_ReportsPageExcel" />
+			<class
+				name="com.automationAspireportal.testscript.TC10_Manager_MoreThan31Days" />
+			<class
+				name="com.automationAspireportal.testscript.TC24_Manger_TimesheetSent" />
+			<class
+				name="com.automationAspireportal.testscript.TC11_Manger_ActivityReport" />
+			<class
+				name="com.automationAspireportal.testscript.TC13_Admin_Projectwise_SendTimesheet" />
+			<class
+				name="com.automationAspireportal.testscript.TC14_Admin_Mailsent_StipulatedTime" />
+			<class
+				name="com.automationAspireportal.testscript.TC16_Admin_StipulatedMail_Approve" />
+			<class
+				name="com.automationAspireportal.testscript.TC17_Admin_StipulatedMail_Delete" />
+			<class
+				name="com.automationAspireportal.testscript.TC15_Admin_ActivityReport" />
+			<class
+				name="com.automationAspireportal.testscript.TC18_Admin_AllEmployeesTab" />
+			<class
+				name="com.automationAspireportal.testscript.TC19_AllEmployeesTab_Pdf" />
+			<class
+				name="com.automationAspireportal.testscript.TC20_Admin_FreezeShifts" />
+
+
+		</classes>
+	</test>
+</suite>
